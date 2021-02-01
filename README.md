@@ -11,7 +11,7 @@ back into its original state.
 **DISCLAIMER:** By setting the due date to infinity, you actively disable the kill-switch functionality of the native Flash application. This poses a potential security threat to your system.
 
 ## How to Use
- - Download this HP Flash Fix tool from the release page or compile it by yourself.
+ - Download this HP Flash Fix tool from the [release page](https://github.com/j-frei/HPFlashFix/releases/latest) or compile it by yourself.
  - Start the tool and click `open file` to load the Flash binary.
    - On Windows x32 systems, the Flash binary is located at: `C:\Windows\system32\Macromed\Flash\Flash.ocx`
    - On Windows x64 systems, the Flash binary is located at: `C:\Windows\SysWOW64\Macromed\Flash\Flash.ocx`
