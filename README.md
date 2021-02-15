@@ -17,5 +17,5 @@ back into its original state.
    - On Windows x64 systems, the Flash binary is located at: `C:\Windows\SysWOW64\Macromed\Flash\Flash.ocx`
  - Click `Set due date to infinity`.
  - Click `Save file to...` and save the patched file to a non-system directory.
- - Change the permission for the system Flash binary (`*\Macromed\Flash\Flash.ocx`) to gain write/full access.
+ - Change the permission for the system Flash binary (`*\Macromed\Flash\Flash.ocx`) to gain write/full access. See [this page](https://www.laptopmag.com/articles/take-ownership-folder-windows-10-using-file-explorer) for more information on file permission changes. (Thanks to @rolandblok for the link)
  - Copy the patched file and replace the system Flash binary by the patched file.
